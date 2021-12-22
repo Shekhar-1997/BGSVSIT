@@ -1,0 +1,37 @@
+.container {
+    background-color: aquamarine;
+    color: brown;
+    padding: 1%;
+    border: 10px;
+    margin: 20px;
+    font-style: italic;
+    text-decoration: underline;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    word-spacing: 0.8em;
+}
+
+#box-model{
+    background-color: goldenrod;
+    padding: 1rem;
+    border:10px;
+    margin:10px;
+}
+.categories h2{
+    background-position: 2px;
+    padding: 5rem;
+    border:10px;
+    margin:10px;
+
+}
+.categories ul{
+    text-decoration: none;
+}
+.pass {
+    font-size: 12px;
+    background-color: rgb(red, green, blue);
+    margin: 1em;
+    padding: 1em;
+    border: 5px;
+}
+
